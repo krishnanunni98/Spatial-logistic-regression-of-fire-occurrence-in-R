@@ -1,4 +1,4 @@
-Spatial Logistic Regression of Fire Occurrence in R
+# Spatial Logistic Regression of Fire Occurrence in R
 
 Project overview
 This project applies spatial logistic regression to model fire occurrence using georeferenced presence/absence data and raster-based environmental predictors. The workflow includes data preparation, raster value extraction, model calibration with a 75/25 train-validation split, AIC-based model comparison, RMSE evaluation, and spatial prediction mapping.
